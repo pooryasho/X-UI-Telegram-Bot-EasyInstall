@@ -27,7 +27,7 @@ This bot provides a seamless way for users to check their VPN configuration stat
 ## Easy Install for vps/server  ( Ubuntu )
 Just enter the following command in your server terminal and enter information such as the IP or domain connected to the server, the robot token, and the admin ID.
 ```
-bash <(curl -s https://raw.githubusercontent.com/aminiyt1/X-UI-Telegram-Bot/main/easyinstall.sh)
+bash <(curl -s https://raw.githubusercontent.com/pooryasho/X-UI-Telegram-Bot/main/easyinstall.sh)
 ```
 
 
@@ -73,7 +73,7 @@ When adding a panel, use the following format:
 ## نصب آسان در سرور مجازی  ( Ubuntu )
 کافیست دستور زیر را در ترمینال سرور خود وارد کنید و اطلاعات اولیه مانند ای پی یا دامنه متصل به سرور، توکن ربات و ایدی ادمین را وارد کنید.
 ```
-bash <(curl -s https://raw.githubusercontent.com/aminiyt1/X-UI-Telegram-Bot/main/easyinstall.sh)
+bash <(curl -s https://raw.githubusercontent.com/pooryasho/X-UI-Telegram-Bot/main/easyinstall.sh)
 ```
 
 
